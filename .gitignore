@@ -9,15 +9,6 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-[Aa]ssets/StreamingAssets/LocalStorage/audios
-[Aa]ssets/StreamingAssets/LocalStorage/images
-[Aa]ssets/StreamingAssets/LocalStorage/jsons
-[Aa]ssets/StreamingAssets/LocalStorage/models
-[Aa]ssets/StreamingAssets/LocalStorage/videos
-[Aa]ssets/StreamingAssets/LocalStorage/Routes
-[Aa]ssets/StreamingAssets/LocalStorage/Meeting
-[Aa]ssets/StreamingAssets/LocalStorage/saveJsons
-[Aa]ssets/StreamingAssets/LocalStorage/xmls
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
